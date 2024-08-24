@@ -1,0 +1,8 @@
+There are 4 steps in the git first the untracked file we created is in the step 4(i.e working directory)
+then the files we need to put in the repo or the files we need to save if there is any pc crash we 
+need to move them to the step 1 (i.e remote repository) so from step 4 to step 1 in between them there
+are 2 steps,step 3(i.e stagging area) and step 2(i.e local repo).stagging area is where we need to save the
+progess so we move the files from step 4 to step 3 by using git add command here we can choose
+the files we want to send to the local repo and from step 3 to step 2 by using git commit command and in this
+step we can move the entire files from the stagging to local and then we can move the files from local to remote
+by using git push command.
