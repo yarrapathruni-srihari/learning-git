@@ -18,3 +18,6 @@ pull request and ask the owner to merge it into the main branch and if he agrees
 
 5. "git checkout -b "branchname" it will create a new branch if the branchname doesn't exist.
 
+6. "fork" in the github means that we are creating a copy the main branch and we can make changes without
+affecting the original code and after we changed we can raise a pull request to merge it in the original
+branch.
