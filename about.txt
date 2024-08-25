@@ -1,0 +1,2 @@
+this is an example of how git works and checks it status.
+Any file which is in untracked status is known as working directory.
