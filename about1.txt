@@ -6,3 +6,15 @@ progess so we move the files from step 4 to step 3 by using git add command here
 the files we want to send to the local repo and from step 3 to step 2 by using git commit command and in this
 step we can move the entire files from the stagging to local and then we can move the files from local to remote
 by using git push command.
+
+2. lets learn about branching for any repo there is a master/main branch so if there are 10 people if they work on
+same branch it's create mess and it's difficult for them to make changes so they will create 10 copies and each
+of them will work on their own copies and push that changes to the copied branch and after they raise a
+pull request and ask the owner to merge it into the main branch and if he agrees if merge it and deploy.
+
+3."git branch" gives the details of the branches present in the repo.
+
+4. "git checkout "branchname" " is used for jumping from one branch to another branch.
+
+5. "git checkout -b "branchname" it will create a new branch if the branchname doesn't exist.
+
